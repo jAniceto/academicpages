@@ -11,7 +11,7 @@ title                    : "José Aniceto, PhD"
 title_separator          : "-"
 name                     : &name "José Aniceto"
 description              : &description "Researcher at CICECO, UA"
-url                      : https://janiceto.github.io/academicpages/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://janiceto.github.io/academicpages # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jAniceto/academicpages"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -85,7 +85,7 @@ author:
   bio              : "Chemical Engineer PhD and Researcher at CICECO, University of Aveiro"
   location         : "Aveiro, Portugal"
   employer         :
-  pubmed           : "https://scholar.google.pt/citations?user=yknSY4AAAAAJ"
+  pubmed           : 
   googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
